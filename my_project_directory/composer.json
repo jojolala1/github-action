@@ -5,7 +5,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "ext-ctype": "*",
+        "ext-cttype": "*",
         "ext-iconv": "*",
         "symfony/console": "7.0.*",
         "symfony/dotenv": "7.0.*",
